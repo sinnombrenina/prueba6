@@ -1,0 +1,13 @@
+Práctia de repositorio 6
+Introducción
+Este proyecto nos permite practicar una vez más xon los repositorios
+
+¿A quién va dirigido?
+A todos los usuarios que quieran aprender git
+
+A tener en cuenta
+Repasar previamente:
+
+ Apuntes de clase
+ Videos de youtube
+ Cheat sheet
